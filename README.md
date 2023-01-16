@@ -1,3 +1,10 @@
+# CourseProject-F19-HW1
+
+This is course project of Juncheng An. <Fall 2019 - EECS 498-007: Deep Learning for Computer Vision - Homework 1>.  
+
+Updated for personal documentation and application purpose, DO NOT use for course project.  
+
+
 This repository has utility scripts for students.
 
 ## Installation
